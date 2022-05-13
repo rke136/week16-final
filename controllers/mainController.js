@@ -114,5 +114,5 @@ exports.postGetMovie = (req, res) => {
 				source: 'getmovie'
 			});
 		}
-	);
+	)
 }
